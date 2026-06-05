@@ -165,7 +165,8 @@ users (1) ──────< (N) tasks
 
 ## Screenshots
 
-Add screenshots of Login, Register, and Dashboard after running the app locally.
+<img width="1600" height="727" alt="image" src="https://github.com/user-attachments/assets/4f107d3f-e94b-4296-9880-aa1885964d07" />
+
 
 ## Demo Video Checklist
 
