@@ -166,7 +166,12 @@ users (1) ──────< (N) tasks
 ## Screenshots
 
 <img width="1600" height="727" alt="image" src="https://github.com/user-attachments/assets/4f107d3f-e94b-4296-9880-aa1885964d07" />
-
+<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/cd72f32a-d3b9-470c-a551-f42c52de9151" />
+<img width="1600" height="732" alt="image" src="https://github.com/user-attachments/assets/0e6b14a0-b01b-4017-b0ec-d59f77209358" />
+<img width="1146" height="873" alt="image" src="https://github.com/user-attachments/assets/6ff81fc6-1e39-43c3-84dd-700108edac4c" />
+<img width="1583" height="838" alt="image" src="https://github.com/user-attachments/assets/fda7fa68-3344-423a-b93b-5570911e602f" />
+<img width="1422" height="806" alt="image" src="https://github.com/user-attachments/assets/0396a02b-6886-4a29-9523-09239c0ea917" />
+<img width="1578" height="298" alt="image" src="https://github.com/user-attachments/assets/173bd609-956d-48ba-8b37-50e14e66e8a5" />
 
 ## Demo Video Checklist
 
