@@ -163,6 +163,9 @@ users (1) ──────< (N) tasks
 - CORS configured for `http://localhost:5173`
 - Use environment variables for secrets in production
 
+# Live Link
+https://ai-task-management-portal.vercel.app/dashboard
+
 ## Screenshots
 
 <img width="1600" height="727" alt="image" src="https://github.com/user-attachments/assets/4f107d3f-e94b-4296-9880-aa1885964d07" />
